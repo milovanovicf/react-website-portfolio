@@ -5,6 +5,7 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
     margin: 0;
     padding:0;
+    font-family: 'Oswald',sans-serif;
 }
 html {
   background: #a9e4f7; /* Old browsers */

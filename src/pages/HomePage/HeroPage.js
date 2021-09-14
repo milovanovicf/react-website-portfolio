@@ -34,7 +34,7 @@ const HeroPage = ({
         <Container>
           <InfoRow imgStart={imgStart}>
             <InfoColumn>
-              <TextWrapper style={{ textAlign: "left" }}>
+              <TextWrapper style={{ textAlign: "left", fontStyle: "normal" }}>
                 <Heading
                   style={{
                     fontSize: "43px",
