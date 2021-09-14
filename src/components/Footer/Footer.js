@@ -33,8 +33,13 @@ const Footer = () => {
           >
             <LogoLinkedin />
           </Link>
-          <LogoInstagram />
-          <Link to="/">
+          <Link to={{ pathname: "https://www.instagram.com/" }} target="_blank">
+            <LogoInstagram />
+          </Link>
+          <Link
+            to={{ pathname: "mailto:milovanovicfilip007@gmail.com" }}
+            target="_blank"
+          >
             <LogoEmail />
           </Link>
         </FooterIcons>
