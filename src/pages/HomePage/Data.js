@@ -20,7 +20,7 @@ export const homeObjTwo = {
     "Webull front page, navbar and a search bar created using React and styled components.",
   buttonLabel: (
     <Link
-      to={{ pathname: "https://github.com/milovanovicf/react-stock-site" }}
+      to={{ pathname: "https://webullmockup.netlify.app/" }}
       target="_blank"
       style={{ textDecoration: "none", color: "#fff" }}
     >

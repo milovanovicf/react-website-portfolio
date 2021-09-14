@@ -47,6 +47,7 @@ export const TextWrapper = styled.div`
 
   @media screen and (max-width: 786px) {
     padding-bottom: 65px;
+    font-size: 1rem;
   }
 `;
 
