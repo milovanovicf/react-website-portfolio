@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f433fcd9.chunk.js",
+    "main.js.map": "/static/js/main.f433fcd9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.014f7750.js",
+    "runtime-main.js.map": "/static/js/runtime-main.014f7750.js.map",
+    "static/js/2.5425a4c6.chunk.js": "/static/js/2.5425a4c6.chunk.js",
+    "static/js/2.5425a4c6.chunk.js.map": "/static/js/2.5425a4c6.chunk.js.map",
+    "static/js/3.71403d23.chunk.js": "/static/js/3.71403d23.chunk.js",
+    "static/js/3.71403d23.chunk.js.map": "/static/js/3.71403d23.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.5425a4c6.chunk.js.LICENSE.txt": "/static/js/2.5425a4c6.chunk.js.LICENSE.txt",
+    "static/media/Aquire.16a62eb5.woff": "/static/media/Aquire.16a62eb5.woff",
+    "static/media/Screenshot 2021-09-14 012913.png": "/static/media/Screenshot 2021-09-14 012913.d59b5e00.png",
+    "static/media/movies.png": "/static/media/movies.59a399e1.png",
+    "static/media/svg2.svg": "/static/media/svg2.507e7ec7.svg",
+    "static/media/toDo.png": "/static/media/toDo.d88d7b36.png",
+    "static/media/weatherApp.png": "/static/media/weatherApp.460e4ac8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.014f7750.js",
+    "static/js/2.5425a4c6.chunk.js",
+    "static/js/main.f433fcd9.chunk.js"
+  ]
+}
