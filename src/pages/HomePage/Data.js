@@ -41,7 +41,7 @@ export const homeObjThree = {
   icon2: <LogoJavaScripit />,
   buttonLabel: (
     <Link
-      to={{ pathname: "https://github.com/milovanovicf/movie-website" }}
+      to={{ pathname: "https://movies-you-might-like.netlify.app/" }}
       target="_blank"
       style={{ textDecoration: "none", color: "#fff" }}
     >
@@ -63,7 +63,7 @@ export const homeObjFour = {
   icon3: <LogoApi />,
   buttonLabel: (
     <Link
-      to={{ pathname: "https://github.com/milovanovicf/weather-app" }}
+      to={{ pathname: "https://simple-weather-app-api.netlify.app/" }}
       target="_blank"
       style={{ textDecoration: "none", color: "#fff" }}
     >
